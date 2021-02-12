@@ -8,4 +8,4 @@ HTMLとJavaScriptで作成したシンプルなTODOアプリです。
 
 ## License
 
-[MIT](LICENSE.md) © Kiyoto Yamaura
+[MIT](LICENSE) © Kiyoto Yamaura
